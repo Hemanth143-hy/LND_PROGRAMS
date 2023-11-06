@@ -1,0 +1,15 @@
+1001	Jennifer Crawford   Female	Engineer	32
+1002	Skylar Sean	        Female	Author	    25
+1003	Angelina John	    Female	Doctor      45
+1004	Karen Tatum	    	Female	Doctor	    34
+1005	Tanya Brown	    	Female	Engineer	34
+1006	Frank Bryce	    	Male	Doctor	    50
+1007	Jason Frank	    	Male	Doctor      49
+1008	Jimmy White	    	Male	Author	    33
+1009	Lenny Bruce	    	Male	Engineer	37
+1010	Lara Kilarney	    Female	Doctor	    49
+1011	Martha Stalwart	    Female	Politician	41
+1012	Ron Wesley	    	Male	Driver	    35
+1013	Minnie Drover	    Female	Actor	    35
+1014	Tom Fullerton	    Male	Actor	    34
+1015	Carl Jackson	    Male	Manager	    60
